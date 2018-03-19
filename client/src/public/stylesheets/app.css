@@ -1,0 +1,63 @@
+.viewUser{
+
+	border: 1px solid;
+}
+
+.sidebar{
+	margin-bottom: 10px;
+}
+
+.page-header{
+	font-color: 'red';
+  margin-top: 20px;
+  font-size:30px;
+}
+.form-font{
+	color: #F0FFFF;
+	/*font-family: 'Bitter', serif;*/
+}
+
+.overlay-color-theme {
+  background: rgba(169,195,99,.8);
+  background: url('/bg-green.png');
+}
+
+.overlay {
+  background: #448d6a;
+}
+
+.btn{
+	/*background-color:  #777;
+	background-color: rgba(169,200,99,.8); /*#009933;  Green */
+    
+}
+.balance{
+	text-align: center;
+}
+.required:after {
+	content:" *"; 	
+	margin-right:20%;
+	color: #e32;
+	position: absolute; 
+	font-size: x-large; 
+	padding: 0 5px 0 0; 
+}
+
+.navbar{
+    background: #39ac73; /*rgba(169,200,99,.8)*/
+
+}
+
+.navbar123{
+	color: #e32;
+}
+
+.navbar a {
+	color: white;
+}
+.navbar a:hover{
+	color: black;
+}
+a{
+	color: white;
+}
